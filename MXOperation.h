@@ -1,7 +1,7 @@
 //
 //  MXOperation.h
 //  HMXStockInfo
-//  11111 22  222 444 11 22
+//  master
 //  Created by IOS_HMX on 15/6/29.
 //  Copyright (c) 2015年 IOS_HMX. All rights reserved.
 // 11111 3333 444 555  66
