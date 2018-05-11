@@ -1,10 +1,10 @@
 //
 //  MXOperation.h
 //  HMXStockInfo
-//  master 1 2 3
+//  master 1 2 3 
 //  Created by IOS_HMX on 15/6/29.
 //  Copyright (c) 2015年 IOS_HMX. All rights reserved.
-//  branch 1 2 3
+//  branch 1 2 3 4
 
 #import <Foundation/Foundation.h>
 @class MXOperation;
